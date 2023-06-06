@@ -9,6 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com/jtrnyc
+      - icon: github
+        menu:
+          - text: View Source
+            url:  https://www.github.com/jtr13/websitetest
+          - text: Issues
+            url:  https://www.github.com/jtr13/websitetest
 
 format:
   html:
