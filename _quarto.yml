@@ -15,9 +15,9 @@ website:
       - icon: github
         menu:
           - text: View Source
-            url:  https://www.github.com/jtr13/websitetest
-          - text: Issues
-            url:  https://www.github.com/jtr13/websitetest
+            url:  https://github.com/jtr13/websitetest
+          - text: Open an issue
+            url:  https://github.com/jtr13/websitetest/issues/new
 
 format:
   html:
